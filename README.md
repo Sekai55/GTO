@@ -7,7 +7,7 @@
 ``` bash
 npm install
 
-npm run serve
+npm run server
 
 npm run dev
 
